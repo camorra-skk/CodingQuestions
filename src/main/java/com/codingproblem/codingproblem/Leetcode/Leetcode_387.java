@@ -1,4 +1,4 @@
-package com.codingProblem.CodingProblem.Leetcode;
+package com.codingproblem.codingproblem.Leetcode;
 
 /* Problem Statement :
         https://leetcode.com/problems/first-unique-character-in-a-string/

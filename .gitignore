@@ -57,3 +57,4 @@ build/
 mvnw
 mvnw.cmd
 .mvn
+src/test

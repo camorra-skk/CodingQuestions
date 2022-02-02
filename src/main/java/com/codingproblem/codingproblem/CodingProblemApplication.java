@@ -1,4 +1,4 @@
-package com.codingProblem.CodingProblem;
+package com.codingproblem.codingproblem;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

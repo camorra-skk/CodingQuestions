@@ -1,4 +1,4 @@
-package com.codingProblem.CodingProblem.miscPackage;
+package com.codingproblem.codingproblem.miscpackage;
 
 
 

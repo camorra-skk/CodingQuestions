@@ -1,4 +1,4 @@
-package com.codingProblem.CodingProblem.miscPackage;
+package com.codingproblem.codingproblem.miscpackage;
 
 
 //Given a non-empty array of digits representing a non-negative integer, plus one to the integer.
@@ -6,8 +6,6 @@ package com.codingProblem.CodingProblem.miscPackage;
 //and each element in the array contain a single digit.
 //You may assume the integer does not contain any leading zero, except the number 0 itself.
 
-
-import java.util.Arrays;
 
 public class PlusOne {
 
