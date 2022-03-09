@@ -65,6 +65,7 @@ class Odd implements Runnable {
     @Override
     public void run() {
         for (int i=1;i<max;i+=2) {
+            System.out.println();
             sp.printOdd(i);
         }
     }
